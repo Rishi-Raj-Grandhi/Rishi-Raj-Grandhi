@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Rishi-Raj-Grandhi
-- 👀 I’m interested in computer programming
+- 👀 I’m interested in almost everything related to computers
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on anything worthy
 - 📫 How to reach me rishi.phani.grandhi@gmail.com
